@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_token_encoded_key_z
+  secret: user_token_encoded_key_prd
 
 gateway:
   ip: 127.0.0.1
